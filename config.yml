@@ -1,0 +1,14 @@
+user:
+  userName: # 填学号 #
+  password: # 填密码 #
+  email: # 通知邮箱 #
+
+mail_server: # 设置第三方邮箱服务器 #
+  mail_host: 
+  mail_user: 
+  mail_pass: 
+
+kc: # 需要查询的课程 #
+  - 计算概论
+
+interval: 600 # 查询间隔，以秒为单位 #
